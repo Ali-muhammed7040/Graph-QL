@@ -56,3 +56,4 @@ const { url } = startStandaloneServer(server, {
 })
 
 console.log('port ready at', 4000)
+console.log('hi lee')
